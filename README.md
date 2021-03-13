@@ -10,3 +10,5 @@ python regex learning: https://www.programiz.com/python-programming/regex
 python regex testing online: https://pythex.org/
 
 python regex cheatsheet: https://cheatography.com/mutanclan/cheat-sheets/python-regular-expression-regex/
+
+python pandas melt and pivot examples: https://www.journaldev.com/33398/pandas-melt-unmelt-pivot-function
